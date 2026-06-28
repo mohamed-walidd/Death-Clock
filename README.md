@@ -32,10 +32,10 @@
 > We are supporting the following Scheduling algorithms:
 
 1. HPF (Highest Priority First)
-2. STRN (Shortest Time Remaining Next)
+2. SRTN (Shortest Remaining Time Next)
 3. RR (Round Robin)
 4. HPFP(The Preemtive version of HPF)
-5. FCFS(First Come )
+5. FCFS(First Come First Served)
 ## Used Data structures
 
 |     Algo/Part     |       DS       |
